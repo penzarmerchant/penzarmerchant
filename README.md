@@ -27,7 +27,7 @@
     <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" width="40" height="40"/></a>
     <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/playwright" alt="Playwright" width="40" height="40"/>
+        <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
 
 </p>
 <p>
